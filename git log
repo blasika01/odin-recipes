@@ -1,0 +1,29 @@
+[33mcommit 541909bc3fd2495deede8f5ea724e718f50c0b40[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Blaskó Bence <bblasika@gmail.com>
+Date:   Sun Dec 5 22:39:00 2021 +0100
+
+    Put up a picture on the recipe site
+
+[33mcommit 2b0e863f146906cf9d40e6baaab88e9f01bc9135[m
+Author: Blaskó Bence <bblasika@gmail.com>
+Date:   Sun Dec 5 22:15:56 2021 +0100
+
+    Added the index.html file which currently contains a link to the recipe site.
+
+[33mcommit 49d2476597af622e0e2f4dde7fa317f0ff2d5e6c[m
+Author: Blaskó Bence <bblasika@gmail.com>
+Date:   Sun Dec 5 22:14:06 2021 +0100
+
+    Created a site for Salmon Patties recipe, with a heading.
+
+[33mcommit 499e24b600c85b8ef8eaa086a332c48e741c4807[m
+Author: Blaskó Bence <bblasika@gmail.com>
+Date:   Sun Dec 5 22:03:40 2021 +0100
+
+    A basic intrudaction for what im going to be doing in this project
+
+[33mcommit dae90a6f1938e43e2729131d427d2e6c7648690f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: blasika01 <39926819+blasika01@users.noreply.github.com>
+Date:   Sun Dec 5 21:45:50 2021 +0100
+
+    Initial commit
