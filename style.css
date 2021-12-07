@@ -1,0 +1,15 @@
+.odin-recipes,
+.recipe-name {
+    text-align: center;
+}
+
+.odin-recipes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(153, 153, 33);
+}
+
+.recipe-name {
+    font-family: Verdana, sans-serif;
+}
